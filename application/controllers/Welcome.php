@@ -1,6 +1,6 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
-//cek push falak
+
 class Welcome extends CI_Controller {
 
 	/**
