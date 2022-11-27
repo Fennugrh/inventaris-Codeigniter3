@@ -1,6 +1,6 @@
 <aside class="main-sidebar sidebar-dark-primary elevation-4">
     <!-- Brand Logo -->
-    <a href="../../index3.html" class="brand-link">
+    <a href="#" class="brand-link">
         <i class="nav-icon fas fa-home"></i>
         <span class="brand-text font-weight-light"><b>INVENTARIS</b></span>
     </a>
@@ -50,14 +50,14 @@
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a href="<?= base_url('#'); ?>" class="nav-link">
+                    <a href="<?= base_url('dataalat/index'); ?>" class="nav-link">
                         <i class="nav-icon fas fa-book"></i>
                         <p>
                             Data Alat
                         </p>
                     </a>
                 <li class="nav-item">
-                    <a href="<?= base_url('#'); ?>" class="nav-link">
+                    <a href="<?= base_url('keteranganalat/index'); ?>" class="nav-link">
                         <i class="nav-icon fas fa-copy"></i>
                         <p>
                             Keterangan Alat
